@@ -4,7 +4,9 @@
 - 💞️ ใช้ส่งงาน ไม่ต้องมาส่อง
 - 📫 IDK
 
-![](https://media.tenor.com/97sD3prHJcoAAAAC/funny-memes.gif)
+
+
+![]([https://media.tenor.com/97sD3prHJcoAAAAC/funny-memes.gif](https://media.tenor.com/v_zSw8jgtTIAAAAC/motorcycle-bike.gif))
 
 <!---
 JakgritB/JakgritB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
