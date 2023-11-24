@@ -6,7 +6,7 @@
 
 
 
-![]([https://media.tenor.com/97sD3prHJcoAAAAC/funny-memes.gif](https://media.tenor.com/v_zSw8jgtTIAAAAC/motorcycle-bike.gif))
+![](https://media.tenor.com/97sD3prHJcoAAAAC/funny-memes.gif](https://media.tenor.com/v_zSw8jgtTIAAAAC/motorcycle-bike.gif](https://f.ptcdn.info/239/005/000/1368767544-1368081218-o.gif)
 
 <!---
 JakgritB/JakgritB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
