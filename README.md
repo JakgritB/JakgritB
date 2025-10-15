@@ -36,11 +36,19 @@ Hi 👋 My name is Jakgrit Boottapak
 Computer Engineering student
 ----------------------------
 
-I am a second-year computer engineering student at Khon Kaen University. I studied Python during the first semester of my first year, and in the second semester, I learned Java and Object-Oriented Programming (OOP).
+I am a third-year computer engineering student at Khon Kaen University.
 
 * 🌍  I'm based in Khon Kaen, Thailand
 * ✉️  You can contact me at [jakgrit.b@kkumail.com](mailto:jakgrit.b@kkumail.com)
-* ⚡  I like everything about cars, and I want to work on some projects related to cars.
+* ⚡  I am passionate about both hardware and software. I believe that understanding systems from the circuit level to the software that controls them leads to more efficient and meaningful development.
+
+### My Academic Background in Software and Hardware
+
+Year 1, Semester 1: Python , Arduino </br>
+Year 1, Semester 2: Java (OOP) , Circuit </br>
+Year 2, Semester 1: Data Structures , Analog Circuits </br>
+Year 2, Semester 2: Assembly , Digital Circuits </br>
+Year 3, Semester 1: Database (SQL & MongoDB) , Microprocessors , Computer Architecture , Network , Cybersecurity (Current) </br>
 
 ### Skills
 
@@ -50,4 +58,21 @@ I am a second-year computer engineering student at Khon Kaen University. I studi
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/JakgritB" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.github.com/JakgritB" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+
+  <a href="https://www.linkedin.com/in/jakgrit-boottapak-593421374/" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" />
+    </picture>
+  </a>
+</p>
+
