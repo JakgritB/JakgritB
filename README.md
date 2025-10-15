@@ -1,5 +1,18 @@
-### My GitHub Stats
+<div align="center">
 
+## Featured Projects ⭐
+
+| WRG ROS 2025| MT Car Sim STM32 | Cat Hotel |
+|---|---|---|
+| **[Repository](https://github.com/JakgritB/WRG-ROS-Challenge-2025)** | **[Repository](https://github.com/JakgritB/Nexty-STM32-Training)** | **[Repository](https://github.com/JakgritB/CatHotelProject)** |
+
+</div>
+
+<div align="center">
+  
+## My GitHub Stats 📊
+
+</div>
 <table align="center">
   <tr>
     <td>
