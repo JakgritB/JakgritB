@@ -49,7 +49,8 @@ Year 1, Semester 2: Java (OOP) , Circuit </br>
 Year 2, Semester 1: Data Structures , Analog Circuits </br>
 Year 2, Semester 2: Assembly , Digital Circuits </br>
 Year 3, Semester 1: Database (SQL & MongoDB) , Microprocessors , Computer Architecture , Network , Cybersecurity </br>
-Year 3, Semester 2: Theory of Computation , OS , Software Eng , CI , Microcontroller (Current) </br>
+Year 3, Semester 2: Theory of Computation , OS , Software Eng , CI , Microcontroller </br>
+Year 3, Summer (Y3->Y4): Internship at Infineon Thailand (Current) </br>
 
 ### Skills
 
