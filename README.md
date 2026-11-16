@@ -52,7 +52,7 @@ Year 3, Semester 1: Database (SQL & MongoDB) , Microprocessors , Computer Archit
 Year 3, Semester 2: Theory of Computation , OS , Software Eng , CI , Microcontroller </br>
 Year 3, Summer (Y3->Y4): Internship at Infineon Thailand </br>
 Year 4, Semester 1: Co-op Cooperative Education at Infineon Thailand </br>
-Year 4, Semester 2: Machine Learning, Cloud Applications and Networking </br>
+Year 4, Semester 2: Machine Learning, Cloud Applications and Networking (Current)</br>
 
 ### Skills
 
