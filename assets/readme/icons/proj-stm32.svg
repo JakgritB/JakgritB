@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">STM32 Microcontroller Icon</title>
+  <desc id="desc">Microcontroller IC package with pins representing STM32 embedded firmware.</desc>
+  <rect width="64" height="64" rx="14" fill="#241C11" stroke="#F59E0B" stroke-width="2"/>
+  <!-- IC Pins -->
+  <path d="M23 11 V17 M32 11 V17 M41 11 V17 M23 47 V53 M32 47 V53 M41 47 V53 M11 23 H17 M11 32 H17 M11 41 H17 M47 23 H53 M47 32 H53 M47 41 H53" stroke="#F59E0B" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- IC Body -->
+  <rect x="17" y="17" width="30" height="30" rx="5" fill="#0B1117" stroke="#F59E0B" stroke-width="2.5"/>
+  <rect x="24" y="24" width="16" height="16" rx="2.5" fill="#F59E0B" fill-opacity="0.22" stroke="#F59E0B" stroke-width="1.8"/>
+  <circle cx="22" cy="22" r="1.8" fill="#F59E0B"/>
+</svg>

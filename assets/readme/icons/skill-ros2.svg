@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">ROS 2</title>
+  <desc id="desc">ROS 2 Robot Operating System skill icon tile matching skillicons dark style.</desc>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <!-- Classic 3x3 ROS dots mark -->
+  <circle cx="80" cy="64" r="14" fill="#38BDF8"/>
+  <circle cx="128" cy="64" r="14" fill="#F8FAFC"/>
+  <circle cx="176" cy="64" r="14" fill="#38BDF8"/>
+  <circle cx="80" cy="108" r="14" fill="#F8FAFC"/>
+  <circle cx="128" cy="108" r="14" fill="#22D3EE"/>
+  <circle cx="176" cy="108" r="14" fill="#F8FAFC"/>
+  <circle cx="80" cy="152" r="14" fill="#38BDF8"/>
+  <circle cx="128" cy="152" r="14" fill="#F8FAFC"/>
+  <circle cx="176" cy="152" r="14" fill="#38BDF8"/>
+  <text x="128" y="214" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="1" fill="#F8FAFC">ROS 2</text>
+</svg>

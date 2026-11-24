@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">STM32</title>
+  <desc id="desc">STM32 microcontroller skill icon tile matching skillicons dark style.</desc>
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <!-- IC Pins -->
+  <path d="M84 36 V58 M113 36 V58 M143 36 V58 M172 36 V58 M84 198 V220 M113 198 V220 M143 198 V220 M172 198 V220 M36 84 H58 M36 113 H58 M36 143 H58 M36 172 H58 M198 84 H220 M198 113 H220 M198 143 H220 M198 172 H220" stroke="#38BDF8" stroke-width="10" stroke-linecap="round"/>
+  <!-- Chip Body -->
+  <rect x="58" y="58" width="140" height="140" rx="22" fill="#0F172A" stroke="#03234B" stroke-width="4"/>
+  <rect x="64" y="64" width="128" height="128" rx="18" fill="#03234B"/>
+  <text x="128" y="122" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#FFFFFF">STM</text>
+  <text x="128" y="168" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="46" font-weight="700" fill="#38BDF8">32</text>
+</svg>

@@ -1,129 +1,61 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/readme/hero.gif" width="100%" alt="Hi, I'm Jakgrit Boottapak — Computer Engineering senior at Khon Kaen University and former Infineon Thailand Intern and Co-op, bridging STM32 firmware with ROS 2 robotics and full-stack software">
+</p>
 
-## Featured Projects ⭐
+<p align="center">
+  <a href="https://github.com/JakgritB"><img src="./assets/readme/icons/social-github.svg" height="40" alt="GitHub · @JakgritB" /></a>
+  <a href="https://www.linkedin.com/in/jakgrit-boottapak-593421374/"><img src="./assets/readme/icons/social-linkedin.svg" height="40" alt="LinkedIn · Jakgrit Boottapak" /></a>
+  <a href="mailto:jakgrit.b@kkumail.com"><img src="./assets/readme/icons/social-email.svg" height="40" alt="Email · jakgrit.b@kkumail.com" /></a>
+</p>
 
-| WRG ROS 2025| MT Car Sim STM32 | Cat Hotel |
-|---|---|---|
-| **[Repository](https://github.com/JakgritB/WRG-ROS-Challenge-2025)** | **[Repository](https://github.com/JakgritB/Nexty-STM32-Training)** | **[Repository](https://github.com/JakgritB/CatHotelProject)** |
+### Featured Projects
 
-</div>
+- <img src="./assets/readme/icons/proj-ros.svg" width="22" height="22" align="absmiddle" alt="ROS 2 Robot" /> &nbsp;**[WRG ROS 2025](https://github.com/JakgritB/WRG-ROS-Challenge-2025)** — Autonomous TurtleBot3 navigation with ROS 2, SLAM, Nav2 & YOLOv8
+- <img src="./assets/readme/icons/proj-stm32.svg" width="22" height="22" align="absmiddle" alt="STM32 MCU" /> &nbsp;**[MT Car Sim (STM32)](https://github.com/JakgritB/Nexty-STM32-Training)** · [Demo ↗](https://www.youtube.com/watch?v=KjPS97JEyH0) — STM32 HAL & bare-metal firmware (GPIO, UART, Timers, PWM)
+- <img src="./assets/readme/icons/proj-cathotel.svg" width="22" height="22" align="absmiddle" alt="Cat Hotel Web App" /> &nbsp;**[Cat Hotel](https://github.com/JakgritB/CatHotelProject)** · [Demo ↗](https://www.youtube.com/watch?v=1HrHpbMARmw) — Pet boarding & live status web app (`Next.js`, `MongoDB`)
 
-<div align="center">
-  
-## My GitHub Stats 📊
+### Experience & Coursework
 
-</div>
-<table align="center">
-  <tr>
-    <td>
-      <a href="http://www.github.com/JakgritB">
-        <img src="https://github-readme-stats-two-eta-59.vercel.app/api?username=JakgritB&show_icons=true&hide=&count_private=true&include_all_commits=true&cache_seconds=1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="JakgritB's GitHub stats" width="465" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/JakgritB">
-        <img src="https://github-readme-stats-two-eta-59.vercel.app/api/top-langs/?username=JakgritB&count_private=true&cache_seconds=1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" 
-          width="250"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-Hi 👋 My name is Jakgrit Boottapak
-==================================
-
-Computer Engineering student
-----------------------------
-
-I am a third-year computer engineering student at Khon Kaen University.
-
-* 🌍  I'm based in Khon Kaen, Thailand
-* ✉️  You can contact me at [jakgrit.b@kkumail.com](mailto:jakgrit.b@kkumail.com)
-* ⚡  I am passionate about both hardware and software. I believe that understanding systems from the circuit level to the software that controls them leads to more efficient and meaningful development.
-
-### My Academic Background in Software and Hardware
-
-Year 1, Semester 1: Python , Arduino </br>
-Year 1, Semester 2: Java (OOP) , Circuit </br>
-Year 2, Semester 1: Data Structures , Analog Circuits </br>
-Year 2, Semester 2: Assembly , Digital Circuits </br>
-Year 3, Semester 1: Database (SQL & MongoDB) , Microprocessors , Computer Architecture , Network , Cybersecurity </br>
-Year 3, Semester 2: Theory of Computation , OS , Software Eng , CI , Microcontroller </br>
-Year 3, Summer (Y3->Y4): Internship at Infineon Thailand </br>
-Year 4, Semester 1: Co-op Cooperative Education at Infineon Thailand </br>
-Year 4, Semester 2: Machine Learning, Cloud Applications and Networking (Current)</br>
+<p align="center">
+  <img src="./assets/readme/journey.svg" width="100%" alt="Four-year Computer Engineering coursework at Khon Kaen University with per-subject icons, plus Internship and Co-op industry experience at Infineon Thailand">
+</p>
 
 ### Skills
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
-  </a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
-  </a>
-  <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Zilog_Z80" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ASM-Z80-00599C?style=flat-square&logoColor=white" height="36" alt="Z80 Assembly" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/X86_assembly_language" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/ASM-x86-00599C?style=flat-square&logo=intel&logoColor=white" height="36" alt="x86 Assembly" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="44" height="44" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" height="44" alt="C++" />
+  <img src="./assets/readme/icons/skill-stm32.svg" width="44" height="44" alt="STM32" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" width="44" height="44" alt="Arduino" />
+  <img src="./assets/readme/icons/skill-z80.svg" width="44" height="44" alt="Z80 Assembly" />
+  <img src="./assets/readme/icons/skill-x86.svg" width="44" height="44" alt="Intel x86 Assembly" />
+  <img src="./assets/readme/icons/skill-ros2.svg" width="44" height="44" alt="ROS 2" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" width="44" height="44" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="44" height="44" alt="Java" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="44" height="44" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="44" height="44" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="44" height="44" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="44" height="44" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="44" height="44" alt="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="44" height="44" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="44" height="44" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="44" height="44" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="44" height="44" alt="Photoshop" />
 </p>
 
-### Socials
+### GitHub Stats
 
-<p align="left"> 
-  <a href="https://www.github.com/JakgritB" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a>
-
-  <a href="https://www.linkedin.com/in/jakgrit-boottapak-593421374/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="34" height="34" />
-    </picture>
-  </a>
+<p align="center">
+  <a href="https://github.com/JakgritB"><img src="https://github-readme-stats-two-eta-59.vercel.app/api?username=JakgritB&show_icons=true&count_private=true&include_all_commits=true&disable_animations=true&title_color=22d3ee&text_color=f1f5f9&icon_color=f59e0b&bg_color=0b1117&border_color=1f2d3d&border_radius=12" alt="Jakgrit Boottapak's GitHub Stats" height="186" /></a>
+  <a href="https://github.com/JakgritB"><img src="https://github-readme-stats-two-eta-59.vercel.app/api/top-langs/?username=JakgritB&count_private=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=makefile,cmake,linker%20script,batchfile,xslt,jupyter%20notebook&disable_animations=true&title_color=22d3ee&text_color=f1f5f9&bg_color=0b1117&border_color=1f2d3d&border_radius=12&custom_title=Top%20Languages" alt="Jakgrit Boottapak's Top Languages" height="186" /></a>
 </p>
 
+> **Balanced Language Weighting:** $\text{score} = \sqrt{\text{size} \times \text{count}}$  
+> Top Languages balances code size with repository count (excluding generated build files & notebooks) so large vendored libraries or small config files don't distort the actual languages written.
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/oil-oil/beautify-github-readme"><img src="./assets/readme/made-with-beautify.svg" width="300" alt="README made with beautify-github-readme"></a>
+</p>

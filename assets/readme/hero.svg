@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Jakgrit Boottapak — Computer Engineering Profile</title>
+  <desc id="desc">Hero banner greeting visitors to Jakgrit Boottapak's GitHub profile: fourth-year Computer Engineering student at Khon Kaen University and former Infineon Thailand Intern and Co-op, showing a three-layer hardware-to-software stack.</desc>
+
+  <defs>
+    <linearGradient id="copperCyanGrad" gradientUnits="userSpaceOnUse" x1="52" y1="138" x2="312" y2="138">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="55%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="busVertGrad" gradientUnits="userSpaceOnUse" x1="682" y1="288" x2="682" y2="92">
+      <stop offset="0%" stop-color="#F59E0B"/>
+      <stop offset="50%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer rounded canvas -->
+  <rect width="1200" height="356" rx="20" fill="#0B1117"/>
+  <rect x="1" y="1" width="1198" height="354" rx="19" fill="none" stroke="#1F2D3D" stroke-width="2"/>
+
+  <!-- Subtle corner fiducials -->
+  <path d="M24 38 V24 H38 M1162 24 H1176 V38 M24 318 V332 H38 M1162 332 H1176 V318" fill="none" stroke="#243447" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Structural column divider -->
+  <line x1="636" y1="38" x2="636" y2="318" stroke="#1B2838" stroke-width="1.5"/>
+
+  <!-- Left: Friendly Greeting paired directly with Name (GitHub Primer font stack) -->
+  <g id="title-block">
+    <!-- Crisp vector waving-hand icon + standalone greeting -->
+    <g transform="translate(52 38)">
+      <path d="M9.5 19.5 C6 19.5 4 16.8 4 13.4 V8.6 C4 7.7 4.7 7 5.5 7 C6.3 7 7 7.7 7 8.6 V11.2 V5.6 C7 4.7 7.7 4 8.5 4 C9.3 4 10 4.7 10 5.6 V10.8 V4.6 C10 3.7 10.7 3 11.5 3 C12.3 3 13 3.7 13 4.6 V10.8 V5.8 C13 4.9 13.7 4.2 14.5 4.2 C15.3 4.2 16 4.9 16 5.8 V12.2 L17.6 10.7 C18.3 10.1 19.3 10.2 19.9 10.9 C20.4 11.5 20.3 12.5 19.6 13.1 L15.5 17.4 C14.1 18.8 12 19.5 9.5 19.5 Z" fill="#F59E0B" transform="rotate(-14 12 12)"/>
+      <path d="M1.2 8.2 C0.6 6 1.4 3.6 3.1 2.1 M18.8 1.8 C21 2.8 22.3 4.9 22.4 7.3" fill="none" stroke="#22D3EE" stroke-width="1.8" stroke-linecap="round"/>
+    </g>
+
+    <text x="86" y="57" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="23" font-weight="600" fill="#22D3EE">Hi, I'm</text>
+
+    <text x="52" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="50" font-weight="600" letter-spacing="-0.6" fill="#F0F6FC">Jakgrit Boottapak</text>
+
+    <!-- Static etched track underneath animated accent rule -->
+    <rect x="52" y="136" width="530" height="4" rx="2" fill="#162230"/>
+
+    <!-- Role & concise bio cleanly below the divider -->
+    <text x="52" y="176" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#94A3B8">Computer Engineering · Khon Kaen University (Year 4)</text>
+    <text x="52" y="212" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#C9D1D9">Bridging bare-metal circuits &amp; STM32 firmware</text>
+    <text x="52" y="242" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#C9D1D9">with ROS 2 robotics and full-stack software.</text>
+
+    <!-- Sleek inline credential pills -->
+    <rect x="52" y="274" width="336" height="42" rx="8" fill="#131B24" stroke="#5A4120" stroke-width="1.3"/>
+    <circle cx="71" cy="295" r="4.5" fill="#F59E0B"/>
+    <text x="86" y="301" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#F0F6FC">Infineon Thailand · Intern &amp; Co-op</text>
+
+    <rect x="402" y="274" width="180" height="42" rx="8" fill="#111A24" stroke="#243547" stroke-width="1.3"/>
+    <circle cx="421" cy="295" r="4.5" fill="#22D3EE"/>
+    <text x="436" y="301" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#C9D1D9">Khon Kaen, TH</text>
+  </g>
+
+  <!-- Animated Accent Signal Bar -->
+  <g id="accent-rule">
+    <rect x="52" y="136" width="260" height="4" rx="2" fill="url(#copperCyanGrad)"/>
+  </g>
+
+  <!-- Right: Static Schematic Slots & Header -->
+  <g id="stack-frame-base">
+    <text x="668" y="59" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" font-weight="600" letter-spacing="1.0" fill="#8B949E">HARDWARE → SOFTWARE STACK</text>
+
+    <!-- Dormant vertical rail and solder pads -->
+    <line x1="682" y1="94" x2="682" y2="288" stroke="#1A2634" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="682" cy="119" r="5" fill="#0B1117" stroke="#26384B" stroke-width="2"/>
+    <circle cx="682" cy="201" r="5" fill="#0B1117" stroke="#26384B" stroke-width="2"/>
+    <circle cx="682" cy="283" r="5" fill="#0B1117" stroke="#26384B" stroke-width="2"/>
+
+    <!-- Recessed borderless bays -->
+    <rect x="708" y="86" width="440" height="66" rx="10" fill="#0E1620"/>
+    <rect x="708" y="168" width="440" height="66" rx="10" fill="#0E1620"/>
+    <rect x="708" y="250" width="440" height="66" rx="10" fill="#0E1620"/>
+  </g>
+
+  <!-- Animated Vertical Signal Bus (powers up bottom-to-top from L0 to L2) -->
+  <g id="bus-trace">
+    <line x1="682" y1="94" x2="682" y2="288" stroke="url(#busVertGrad)" stroke-width="3.5" stroke-linecap="round"/>
+    <path d="M676 102 L682 92 L688 102" fill="none" stroke="#22D3EE" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="688" y1="283" x2="708" y2="283" stroke="#F59E0B" stroke-width="2"/>
+    <circle cx="682" cy="283" r="6" fill="#F59E0B"/>
+    <line x1="688" y1="201" x2="708" y2="201" stroke="#38BDF8" stroke-width="2"/>
+    <circle cx="682" cy="201" r="6" fill="#38BDF8"/>
+    <line x1="688" y1="119" x2="708" y2="119" stroke="#22D3EE" stroke-width="2"/>
+    <circle cx="682" cy="119" r="6" fill="#22D3EE"/>
+  </g>
+
+  <!-- Layer 0: Circuits & MCU Firmware -->
+  <g id="layer-l0">
+    <rect x="708" y="250" width="440" height="66" rx="10" fill="#121C27" stroke="#5A4120" stroke-width="1.5"/>
+    <rect x="722" y="266" width="46" height="34" rx="6" fill="#2A2013" stroke="#F59E0B" stroke-width="1.2"/>
+    <text x="745" y="289" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#F59E0B">L0</text>
+    <text x="784" y="279" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#F0F6FC">Circuits &amp; MCU Firmware</text>
+    <text x="784" y="303" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8B949E">STM32 · C · Z80 / x86 ASM</text>
+  </g>
+
+  <!-- Layer 1: Robotics & Systems OS -->
+  <g id="layer-l1">
+    <rect x="708" y="168" width="440" height="66" rx="10" fill="#121C27" stroke="#223C54" stroke-width="1.5"/>
+    <rect x="722" y="184" width="46" height="34" rx="6" fill="#122638" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="745" y="207" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#38BDF8">L1</text>
+    <text x="784" y="197" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#F0F6FC">Robotics &amp; Systems OS</text>
+    <text x="784" y="221" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8B949E">ROS 2 · SLAM · Nav2 · YOLOv8</text>
+  </g>
+
+  <!-- Layer 2: Full-Stack Web & Cloud -->
+  <g id="layer-l2">
+    <rect x="708" y="86" width="440" height="66" rx="10" fill="#121C27" stroke="#1E4150" stroke-width="1.5"/>
+    <rect x="722" y="102" width="46" height="34" rx="6" fill="#102933" stroke="#22D3EE" stroke-width="1.2"/>
+    <text x="745" y="125" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" font-weight="600" fill="#22D3EE">L2</text>
+    <text x="784" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="600" fill="#F0F6FC">Full-Stack Web &amp; Cloud</text>
+    <text x="784" y="139" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8B949E">Next.js · TypeScript · MongoDB</text>
+  </g>
+</svg>

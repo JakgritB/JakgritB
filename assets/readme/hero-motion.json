@@ -1,0 +1,42 @@
+{
+  "width": 1200,
+  "fps": 30,
+  "duration": 5.2,
+  "colors": 256,
+  "dither": "none",
+  "clip_to_base_alpha": true,
+  "max_size_mb": 2.0,
+  "reveals": [
+    {
+      "id": "accent-rule",
+      "axis": "x",
+      "start": 0.15,
+      "end": 0.85,
+      "exit": { "start": 4.30, "end": 5.10 }
+    },
+    {
+      "id": "bus-trace",
+      "axis": "y-up",
+      "start": 0.18,
+      "end": 1.35,
+      "exit": { "start": 4.30, "end": 5.10 }
+    }
+  ],
+  "layers": [
+    {
+      "id": "layer-l0",
+      "enter": { "start": 0.22, "end": 0.90, "from": [24, 0] },
+      "exit": { "start": 4.30, "end": 5.06, "to": [12, 0] }
+    },
+    {
+      "id": "layer-l1",
+      "enter": { "start": 0.48, "end": 1.16, "from": [24, 0] },
+      "exit": { "start": 4.30, "end": 5.06, "to": [12, 0] }
+    },
+    {
+      "id": "layer-l2",
+      "enter": { "start": 0.74, "end": 1.42, "from": [24, 0] },
+      "exit": { "start": 4.30, "end": 5.06, "to": [12, 0] }
+    }
+  ]
+}

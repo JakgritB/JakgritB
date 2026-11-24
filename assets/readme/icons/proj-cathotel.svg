@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Cat Hotel Icon</title>
+  <desc id="desc">Cat silhouette inside a cozy house frame representing the Cat Hotel web application.</desc>
+  <rect width="64" height="64" rx="14" fill="#102933" stroke="#22D3EE" stroke-width="2"/>
+  <!-- Cat head with pointed ears -->
+  <path d="M18 33 V19 L26 26 H38 L46 19 V33 C46 43 40 49 32 49 C24 49 18 43 18 33 Z" fill="#0B1117" stroke="#22D3EE" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Eyes & nose -->
+  <circle cx="26.5" cy="34.5" r="2.3" fill="#22D3EE"/>
+  <circle cx="37.5" cy="34.5" r="2.3" fill="#22D3EE"/>
+  <path d="M30 39.5 L32 41.5 L34 39.5" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

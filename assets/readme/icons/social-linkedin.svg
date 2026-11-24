@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="276" height="46" viewBox="0 0 276 46" role="img" aria-labelledby="title desc">
+  <title id="title">LinkedIn — Jakgrit Boottapak</title>
+  <desc id="desc">LinkedIn profile pill button linking to Jakgrit Boottapak.</desc>
+  <rect width="276" height="46" rx="11" fill="#0B1117"/>
+  <rect x="1" y="1" width="274" height="44" rx="10" fill="none" stroke="#1F2D3D" stroke-width="1.5"/>
+  <rect x="8" y="8" width="30" height="30" rx="7" fill="#0A66C2"/>
+  <g transform="translate(12 12) scale(0.086)">
+    <path fill="#FFFFFF" d="M81 102h28v92H81v-92zm14-44c9.1 0 16.4 7.3 16.4 16.3 0 9-7.3 16.3-16.4 16.3-9 0-16.3-7.3-16.3-16.3C78.7 65.3 86 58 95 58zm34 44h26.8v12.6h.4c3.7-7.1 12.9-14.6 26.5-14.6 28.4 0 33.6 18.7 33.6 43v51h-28v-45.2c0-10.8-.2-24.6-15-24.6-15 0-17.3 11.7-17.3 23.8V194h-27V102z"/>
+  </g>
+  <text x="48" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="600" fill="#F0F6FC">LinkedIn</text>
+  <text x="114" y="28" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#8B949E">· Jakgrit Boottapak</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">WRG ROS 2025 Robot Icon</title>
+  <desc id="desc">Autonomous TurtleBot3 robot icon with LiDAR turret.</desc>
+  <rect width="64" height="64" rx="14" fill="#132230" stroke="#38BDF8" stroke-width="2"/>
+  <!-- LiDAR turret -->
+  <rect x="24" y="13" width="16" height="8" rx="3" fill="#38BDF8"/>
+  <line x1="32" y1="21" x2="32" y2="26" stroke="#38BDF8" stroke-width="2.5"/>
+  <!-- Robot chassis -->
+  <rect x="14" y="26" width="36" height="20" rx="6" fill="#0B1117" stroke="#38BDF8" stroke-width="2.5"/>
+  <!-- Vision sensor eyes -->
+  <circle cx="25" cy="36" r="3.2" fill="#22D3EE"/>
+  <circle cx="39" cy="36" r="3.2" fill="#22D3EE"/>
+  <!-- Wheels -->
+  <rect x="18" y="47" width="10" height="5" rx="2" fill="#94A3B8"/>
+  <rect x="36" y="47" width="10" height="5" rx="2" fill="#94A3B8"/>
+</svg>
